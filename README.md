@@ -1,6 +1,7 @@
 # Sales-Forecasting-and-Business-Insights-Power-Bi-Dashboard
 
 **Objective**
+
 To contribute to the success of a business by utilizing data analysis techniques, specifically focusing on time series analysis, to provide valuable insights and accurate sales forecasting.
 
 **Project Description**
@@ -66,4 +67,7 @@ Project Structure
 
 
 **Sales Forecast:**
+
+![Untitled111-2](https://github.com/user-attachments/assets/3487d2f1-9042-4adf-ac39-9b60e2db6237)
+
 
